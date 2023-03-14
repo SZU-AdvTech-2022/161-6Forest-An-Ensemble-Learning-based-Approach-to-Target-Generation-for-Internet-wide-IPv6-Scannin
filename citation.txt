@@ -1,0 +1,9 @@
+@inproceedings{REPO-162,
+    author = "Yang, Tao and Cai, Zhiping and Hou, Bingnan and Zhou, Tongqing",
+    booktitle = "IEEE INFOCOM 2022 - IEEE Conference on Computer Communications",
+    number = "",
+    pages = "1679-1688",
+    title = "{6Forest: An Ensemble Learning-based Approach to Target Generation for Internet-wide IPv6 Scanning}",
+    volume = "",
+    year = "2022"
+}
